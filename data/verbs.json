@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "5eac5bec4ff0d27fa4efa7d0",
+    "infinitive": "alight",
+    "presentParticiple": "alighting",
+    "past": "alit",
+    "pastParticiple": "alit/alighted"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7cf",
+    "infinitive": "abide",
+    "presentParticiple": "abiding",
+    "past": "abode/abided",
+    "pastParticiple": "abode/abided/abidden"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7d1",
+    "infinitive": "arise",
+    "presentParticiple": "arising",
+    "past": "arose",
+    "pastParticiple": "arisen"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7d3",
+    "infinitive": "be",
+    "presentParticiple": "being",
+    "past": "was/were",
+    "pastParticiple": "been"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7d2",
+    "infinitive": "awake",
+    "presentParticiple": "awaking",
+    "past": "awoke",
+    "pastParticiple": "awoken"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7d4",
+    "infinitive": "bear",
+    "presentParticiple": "bearing",
+    "past": "bore",
+    "pastParticiple": "borne"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7d7",
+    "infinitive": "begin",
+    "presentParticiple": "beginning",
+    "past": "began",
+    "pastParticiple": "begun"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7d5",
+    "infinitive": "beat",
+    "presentParticiple": "beating",
+    "past": "beat",
+    "pastParticiple": "beaten"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7d6",
+    "infinitive": "become",
+    "presentParticiple": "becoming",
+    "past": "became",
+    "pastParticiple": "become"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7d8",
+    "infinitive": "behold",
+    "presentParticiple": "beholding",
+    "past": "beheld",
+    "pastParticiple": "beheld"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7dd",
+    "infinitive": "bite",
+    "presentParticiple": "biting",
+    "past": "bit",
+    "pastParticiple": "bitten"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7e2",
+    "infinitive": "bring",
+    "presentParticiple": "bringing",
+    "past": "brought",
+    "pastParticiple": "brought"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7e7",
+    "infinitive": "buy",
+    "presentParticiple": "buying",
+    "past": "bought",
+    "pastParticiple": "bought"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7ec",
+    "infinitive": "clothe",
+    "presentParticiple": "clothing",
+    "past": "clad",
+    "pastParticiple": "clad"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7d9",
+    "infinitive": "bend",
+    "presentParticiple": "bending",
+    "past": "bent",
+    "pastParticiple": "bent"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7de",
+    "infinitive": "bleed",
+    "presentParticiple": "bleeding",
+    "past": "bled",
+    "pastParticiple": "bled"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7f1",
+    "infinitive": "deal",
+    "presentParticiple": "dealing",
+    "past": "dealt",
+    "pastParticiple": "dealt"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7e3",
+    "infinitive": "build",
+    "presentParticiple": "building",
+    "past": "built",
+    "pastParticiple": "built"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7f6",
+    "infinitive": "dream",
+    "presentParticiple": "dreaming",
+    "past": "dreamt",
+    "pastParticiple": "dreamt"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7e8",
+    "infinitive": "cast",
+    "presentParticiple": "casting",
+    "past": "cast",
+    "pastParticiple": "cast"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7fb",
+    "infinitive": "fall",
+    "presentParticiple": "falling",
+    "past": "fell",
+    "pastParticiple": "fallen"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7ed",
+    "infinitive": "come",
+    "presentParticiple": "coming",
+    "past": "came",
+    "pastParticiple": "come"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa800",
+    "infinitive": "fit",
+    "presentParticiple": "fitting",
+    "past": "fit",
+    "pastParticiple": "fit"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa805",
+    "infinitive": "foresee",
+    "presentParticiple": "foreseeing",
+    "past": "foresaw",
+    "pastParticiple": "foreseen"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7f2",
+    "infinitive": "dig",
+    "presentParticiple": "digging",
+    "past": "dug",
+    "pastParticiple": "dug"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7f7",
+    "infinitive": "drink",
+    "presentParticiple": "drinking",
+    "past": "drank",
+    "pastParticiple": "drunk"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa80a",
+    "infinitive": "frostbite",
+    "presentParticiple": "frostbiting",
+    "past": "frostbit",
+    "pastParticiple": "frostbitten"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7fc",
+    "infinitive": "feed",
+    "presentParticiple": "feeding",
+    "past": "fed",
+    "pastParticiple": "fed"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa80f",
+    "infinitive": "grow",
+    "presentParticiple": "growing",
+    "past": "grew",
+    "pastParticiple": "grown"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa814",
+    "infinitive": "hide",
+    "presentParticiple": "hiding",
+    "past": "hid",
+    "pastParticiple": "hidden"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa801",
+    "infinitive": "flee",
+    "presentParticiple": "fleeing",
+    "past": "fled",
+    "pastParticiple": "fled"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa806",
+    "infinitive": "forget",
+    "presentParticiple": "forgetting",
+    "past": "forgot",
+    "pastParticiple": "forgotten"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa819",
+    "infinitive": "keep",
+    "presentParticiple": "keeping",
+    "past": "kept",
+    "pastParticiple": "kept"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa81e",
+    "infinitive": "lead",
+    "presentParticiple": "leading",
+    "past": "led",
+    "pastParticiple": "led"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa80b",
+    "infinitive": "get",
+    "presentParticiple": "getting",
+    "past": "got",
+    "pastParticiple": "got"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7db",
+    "infinitive": "bid",
+    "presentParticiple": "bidding",
+    "past": "bade",
+    "pastParticiple": "bidden"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7da",
+    "infinitive": "bet",
+    "presentParticiple": "betting",
+    "past": "bet",
+    "pastParticiple": "bet"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa810",
+    "infinitive": "handwrite",
+    "presentParticiple": "handwriting",
+    "past": "handwrote",
+    "pastParticiple": "handwritten"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7df",
+    "infinitive": "blow",
+    "presentParticiple": "blowing",
+    "past": "blew",
+    "pastParticiple": "blown"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa823",
+    "infinitive": "lend",
+    "presentParticiple": "lending",
+    "past": "lent",
+    "pastParticiple": "lent"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7e1",
+    "infinitive": "breed",
+    "presentParticiple": "breeding",
+    "past": "bred",
+    "pastParticiple": "bred"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7dc",
+    "infinitive": "bind",
+    "presentParticiple": "binding",
+    "past": "bind",
+    "pastParticiple": "bound"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa828",
+    "infinitive": "make",
+    "presentParticiple": "making",
+    "past": "made",
+    "pastParticiple": "made"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7e6",
+    "infinitive": "bust",
+    "presentParticiple": "busting",
+    "past": "bust",
+    "pastParticiple": "bust"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa815",
+    "infinitive": "hit",
+    "presentParticiple": "hitting",
+    "past": "hit",
+    "pastParticiple": "hit"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7e0",
+    "infinitive": "break",
+    "presentParticiple": "breaking",
+    "past": "broke",
+    "pastParticiple": "broken"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7e4",
+    "infinitive": "burn",
+    "presentParticiple": "burning",
+    "past": "burnt",
+    "pastParticiple": "burnt"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7e9",
+    "infinitive": "catch",
+    "presentParticiple": "catching",
+    "past": "caught",
+    "pastParticiple": "caught"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa81a",
+    "infinitive": "kneel",
+    "presentParticiple": "kneeling",
+    "past": "knelt",
+    "pastParticiple": "knelt"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7eb",
+    "infinitive": "cling",
+    "presentParticiple": "clinging",
+    "past": "clung",
+    "pastParticiple": "clung"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7e5",
+    "infinitive": "burst",
+    "presentParticiple": "bursting",
+    "past": "burst",
+    "pastParticiple": "burst"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa82d",
+    "infinitive": "mistake",
+    "presentParticiple": "mistaking",
+    "past": "mistook",
+    "pastParticiple": "mistaken"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa832",
+    "infinitive": "overtake",
+    "presentParticiple": "overtaking",
+    "past": "overtook",
+    "pastParticiple": "overtaken"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa81f",
+    "infinitive": "lean",
+    "presentParticiple": "leaning",
+    "past": "leant",
+    "pastParticiple": "leant"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7ea",
+    "infinitive": "choose",
+    "presentParticiple": "choosing",
+    "past": "chose",
+    "pastParticiple": "chosen"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7f0",
+    "infinitive": "cut",
+    "presentParticiple": "cutting",
+    "past": "cut",
+    "pastParticiple": "cut"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7ee",
+    "infinitive": "cost",
+    "presentParticiple": "costing",
+    "past": "cost",
+    "pastParticiple": "cost"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa837",
+    "infinitive": "quit",
+    "presentParticiple": "quitting",
+    "past": "quit",
+    "pastParticiple": "quit"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7ef",
+    "infinitive": "creep",
+    "presentParticiple": "creeping",
+    "past": "crept",
+    "pastParticiple": "crept"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7f3",
+    "infinitive": "dive",
+    "presentParticiple": "diving",
+    "past": "dove/dived",
+    "pastParticiple": "dove/dived"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa824",
+    "infinitive": "let",
+    "presentParticiple": "letting",
+    "past": "let",
+    "pastParticiple": "let"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7f5",
+    "infinitive": "draw",
+    "presentParticiple": "drawing",
+    "past": "drew",
+    "pastParticiple": "drawn"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7f4",
+    "infinitive": "do",
+    "presentParticiple": "doing",
+    "past": "did",
+    "pastParticiple": "done"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7fa",
+    "infinitive": "eat",
+    "presentParticiple": "eating",
+    "past": "ate",
+    "pastParticiple": "eaten"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa829",
+    "infinitive": "mean",
+    "presentParticiple": "meaning",
+    "past": "meant",
+    "pastParticiple": "meant"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa83c",
+    "infinitive": "rise",
+    "presentParticiple": "rising",
+    "past": "rose",
+    "pastParticiple": "risen"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7f8",
+    "infinitive": "drive",
+    "presentParticiple": "driving",
+    "past": "drove",
+    "pastParticiple": "driven"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7f9",
+    "infinitive": "dwell",
+    "presentParticiple": "dwelling",
+    "past": "dwelt",
+    "pastParticiple": "dwelt"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa841",
+    "infinitive": "see",
+    "presentParticiple": "seeing",
+    "past": "saw",
+    "pastParticiple": "seen"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7ff",
+    "infinitive": "find",
+    "presentParticiple": "finding",
+    "past": "found",
+    "pastParticiple": "found"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa82e",
+    "infinitive": "misunderstand",
+    "presentParticiple": "misunderstanding",
+    "past": "misunderstood",
+    "pastParticiple": "misunderstood"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7fd",
+    "infinitive": "feel",
+    "presentParticiple": "feeling",
+    "past": "felt",
+    "pastParticiple": "felt"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa802",
+    "infinitive": "fling",
+    "presentParticiple": "flinging",
+    "past": "flung",
+    "pastParticiple": "flung"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa804",
+    "infinitive": "forbid",
+    "presentParticiple": "forbidding",
+    "past": "forbade",
+    "pastParticiple": "forbidden"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa833",
+    "infinitive": "pay",
+    "presentParticiple": "paying",
+    "past": "paid",
+    "pastParticiple": "paid"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa7fe",
+    "infinitive": "fight",
+    "presentParticiple": "fighting",
+    "past": "fought",
+    "pastParticiple": "fought"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa846",
+    "infinitive": "sew",
+    "presentParticiple": "sewing",
+    "past": "sewed",
+    "pastParticiple": "sewn"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa803",
+    "infinitive": "fly",
+    "presentParticiple": "flying",
+    "past": "flew",
+    "pastParticiple": "flown"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa838",
+    "infinitive": "read",
+    "presentParticiple": "reading",
+    "past": "read",
+    "pastParticiple": "read"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa807",
+    "infinitive": "forgive",
+    "presentParticiple": "forgiving",
+    "past": "forgave",
+    "pastParticiple": "forgiven"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa809",
+    "infinitive": "freeze",
+    "presentParticiple": "freezing",
+    "past": "froze",
+    "pastParticiple": "frozen"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa84b",
+    "infinitive": "shine",
+    "presentParticiple": "shining",
+    "past": "shone",
+    "pastParticiple": "shone"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa808",
+    "infinitive": "forsake",
+    "presentParticiple": "forsaking",
+    "past": "forsook",
+    "pastParticiple": "forsaken"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa80e",
+    "infinitive": "grind",
+    "presentParticiple": "grinding",
+    "past": "ground",
+    "pastParticiple": "ground"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa813",
+    "infinitive": "hear",
+    "presentParticiple": "hearing",
+    "past": "heard",
+    "pastParticiple": "heard"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa850",
+    "infinitive": "shut",
+    "presentParticiple": "shutting",
+    "past": "shut",
+    "pastParticiple": "shut"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa80c",
+    "infinitive": "give",
+    "presentParticiple": "giving",
+    "past": "gave",
+    "pastParticiple": "given"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa80d",
+    "infinitive": "go",
+    "presentParticiple": "going",
+    "past": "went",
+    "pastParticiple": "gone"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa83d",
+    "infinitive": "rive",
+    "presentParticiple": "riving",
+    "past": "rived",
+    "pastParticiple": "riven"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa855",
+    "infinitive": "sleep",
+    "presentParticiple": "sleeping",
+    "past": "slept",
+    "pastParticiple": "slept"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa818",
+    "infinitive": "inlay",
+    "presentParticiple": "inlaying",
+    "past": "inlaid",
+    "pastParticiple": "inlaid"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa812",
+    "infinitive": "have",
+    "presentParticiple": "having",
+    "past": "had",
+    "pastParticiple": "had"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa811",
+    "infinitive": "hang",
+    "presentParticiple": "hanging",
+    "past": "hung",
+    "pastParticiple": "hung"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa842",
+    "infinitive": "seek",
+    "presentParticiple": "seeking",
+    "past": "sought",
+    "pastParticiple": "sought"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa85a",
+    "infinitive": "smell",
+    "presentParticiple": "smelling",
+    "past": "smelt",
+    "pastParticiple": "smelt"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa81d",
+    "infinitive": "lay",
+    "presentParticiple": "laying",
+    "past": "laid",
+    "pastParticiple": "laid"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa817",
+    "infinitive": "hurt",
+    "presentParticiple": "hurting",
+    "past": "hurt",
+    "pastParticiple": "hurt"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa847",
+    "infinitive": "shake",
+    "presentParticiple": "shaking",
+    "past": "shook",
+    "pastParticiple": "shaken"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa816",
+    "infinitive": "hold",
+    "presentParticiple": "holding",
+    "past": "held",
+    "pastParticiple": "held"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa85f",
+    "infinitive": "spell",
+    "presentParticiple": "spelling",
+    "past": "spelt",
+    "pastParticiple": "spelt"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa81c",
+    "infinitive": "know",
+    "presentParticiple": "knowing",
+    "past": "knew",
+    "pastParticiple": "known"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa84c",
+    "infinitive": "shoe",
+    "presentParticiple": "shoeing",
+    "past": "shod",
+    "pastParticiple": "shod"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa822",
+    "infinitive": "leave",
+    "presentParticiple": "leaving",
+    "past": "left",
+    "pastParticiple": "left"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa81b",
+    "infinitive": "knit",
+    "presentParticiple": "knitting",
+    "past": "knit",
+    "pastParticiple": "knit"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa864",
+    "infinitive": "split",
+    "presentParticiple": "splitting",
+    "past": "split",
+    "pastParticiple": "split"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa820",
+    "infinitive": "leap",
+    "presentParticiple": "leaping",
+    "past": "leapt",
+    "pastParticiple": "leapt"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa827",
+    "infinitive": "lose",
+    "presentParticiple": "losing",
+    "past": "lost",
+    "pastParticiple": "lost"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa821",
+    "infinitive": "learn",
+    "presentParticiple": "learning",
+    "past": "learnt",
+    "pastParticiple": "learnt"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa851",
+    "infinitive": "sing",
+    "presentParticiple": "singing",
+    "past": "sang",
+    "pastParticiple": "sung"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa869",
+    "infinitive": "steal",
+    "presentParticiple": "stealing",
+    "past": "stole",
+    "pastParticiple": "stolen"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa82c",
+    "infinitive": "mislead",
+    "presentParticiple": "misleading",
+    "past": "misled",
+    "pastParticiple": "misled"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa826",
+    "infinitive": "light",
+    "presentParticiple": "lighting",
+    "past": "lit",
+    "pastParticiple": "lit"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa825",
+    "infinitive": "lie",
+    "presentParticiple": "lying",
+    "past": "lay",
+    "pastParticiple": "lain"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa856",
+    "infinitive": "slide",
+    "presentParticiple": "sliding",
+    "past": "slid",
+    "pastParticiple": "slid"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa85b",
+    "infinitive": "sneak",
+    "presentParticiple": "sneaking",
+    "past": "snuck",
+    "pastParticiple": "snuck"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa86e",
+    "infinitive": "strike",
+    "presentParticiple": "striking",
+    "past": "struck",
+    "pastParticiple": "struck"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa831",
+    "infinitive": "overhear",
+    "presentParticiple": "overhearing",
+    "past": "overheard",
+    "pastParticiple": "overheard"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa82b",
+    "infinitive": "melt",
+    "presentParticiple": "melting",
+    "past": "melted",
+    "pastParticiple": "molten"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa82a",
+    "infinitive": "meet",
+    "presentParticiple": "meeting",
+    "past": "met",
+    "pastParticiple": "met"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa836",
+    "infinitive": "put",
+    "presentParticiple": "putting",
+    "past": "put",
+    "pastParticiple": "put"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa830",
+    "infinitive": "overdraw",
+    "presentParticiple": "overdrawing",
+    "past": "overdrew",
+    "pastParticiple": "overdrawn"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa873",
+    "infinitive": "sunburn",
+    "presentParticiple": "sunburning",
+    "past": "sunburnt",
+    "pastParticiple": "sunburnt"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa860",
+    "infinitive": "spend",
+    "presentParticiple": "spending",
+    "past": "spent",
+    "pastParticiple": "spent"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa82f",
+    "infinitive": "mow",
+    "presentParticiple": "mowing",
+    "past": "mowed",
+    "pastParticiple": "mown"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa865",
+    "infinitive": "spoil",
+    "presentParticiple": "spoiling",
+    "past": "spoilt",
+    "pastParticiple": "spoilt"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa834",
+    "infinitive": "preset",
+    "presentParticiple": "presetting",
+    "past": "preset",
+    "pastParticiple": "preset"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa83b",
+    "infinitive": "ring",
+    "presentParticiple": "ringing",
+    "past": "rang",
+    "pastParticiple": "rung"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa835",
+    "infinitive": "prove",
+    "presentParticiple": "proving",
+    "past": "proved",
+    "pastParticiple": "proven"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa878",
+    "infinitive": "swim",
+    "presentParticiple": "swimming",
+    "past": "swam",
+    "pastParticiple": "swum"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa840",
+    "infinitive": "say",
+    "presentParticiple": "saying",
+    "past": "said",
+    "pastParticiple": "said"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa83a",
+    "infinitive": "ride",
+    "presentParticiple": "riding",
+    "past": "rode",
+    "pastParticiple": "ridden"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa86a",
+    "infinitive": "stick",
+    "presentParticiple": "sticking",
+    "past": "stick",
+    "pastParticiple": "stuck"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa839",
+    "infinitive": "rid",
+    "presentParticiple": "ridding",
+    "past": "rid",
+    "pastParticiple": "rid"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa87d",
+    "infinitive": "tell",
+    "presentParticiple": "telling",
+    "past": "told",
+    "pastParticiple": "told"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa83f",
+    "infinitive": "saw",
+    "presentParticiple": "sawing",
+    "past": "sawed",
+    "pastParticiple": "sawn"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa882",
+    "infinitive": "tread",
+    "presentParticiple": "treading",
+    "past": "trod",
+    "pastParticiple": "trodden"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa86f",
+    "infinitive": "string",
+    "presentParticiple": "stringing",
+    "past": "strung",
+    "pastParticiple": "strung"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa845",
+    "infinitive": "set",
+    "presentParticiple": "setting",
+    "past": "set",
+    "pastParticiple": "set"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa83e",
+    "infinitive": "run",
+    "presentParticiple": "running",
+    "past": "ran",
+    "pastParticiple": "run"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa887",
+    "infinitive": "vex",
+    "presentParticiple": "vexing",
+    "past": "vext/vexed",
+    "pastParticiple": "vext/vexed"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa843",
+    "infinitive": "sell",
+    "presentParticiple": "selling",
+    "past": "sold",
+    "pastParticiple": "sold"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa844",
+    "infinitive": "send",
+    "presentParticiple": "sending",
+    "past": "sent",
+    "pastParticiple": "sent"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa874",
+    "infinitive": "swear",
+    "presentParticiple": "swearing",
+    "past": "swore",
+    "pastParticiple": "sworn"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa84a",
+    "infinitive": "shed",
+    "presentParticiple": "shedding",
+    "past": "shed",
+    "pastParticiple": "shed"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa849",
+    "infinitive": "shear",
+    "presentParticiple": "shearing",
+    "past": "shore",
+    "pastParticiple": "shorn"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa879",
+    "infinitive": "swing",
+    "presentParticiple": "swinging",
+    "past": "swung",
+    "pastParticiple": "swung"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa88c",
+    "infinitive": "weep",
+    "presentParticiple": "weeping",
+    "past": "wept",
+    "pastParticiple": "wept"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa848",
+    "infinitive": "shave",
+    "presentParticiple": "shaving",
+    "past": "shaved",
+    "pastParticiple": "shaven"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa84f",
+    "infinitive": "shrink",
+    "presentParticiple": "shrinking",
+    "past": "shrank",
+    "pastParticiple": "shrunk"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa84e",
+    "infinitive": "show",
+    "presentParticiple": "showing",
+    "past": "showed",
+    "pastParticiple": "shown"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa891",
+    "infinitive": "withdraw",
+    "presentParticiple": "withdrawing",
+    "past": "withdrew",
+    "pastParticiple": "withdrawn"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa854",
+    "infinitive": "slay",
+    "presentParticiple": "slaying",
+    "past": "slew",
+    "pastParticiple": "slain"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa87e",
+    "infinitive": "think",
+    "presentParticiple": "thinking",
+    "past": "thought",
+    "pastParticiple": "thought"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa84d",
+    "infinitive": "shoot",
+    "presentParticiple": "shooting",
+    "past": "shot",
+    "pastParticiple": "shot"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa896",
+    "infinitive": "zinc",
+    "presentParticiple": "zincking",
+    "past": "zincked",
+    "pastParticiple": "zincked"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa883",
+    "infinitive": "undergo",
+    "presentParticiple": "undergoing",
+    "past": "underwent",
+    "pastParticiple": "undergone"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa853",
+    "infinitive": "sit",
+    "presentParticiple": "sitting",
+    "past": "sat",
+    "pastParticiple": "sat"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa859",
+    "infinitive": "slit",
+    "presentParticiple": "slitting",
+    "past": "slit",
+    "pastParticiple": "slit"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa852",
+    "infinitive": "sink",
+    "presentParticiple": "sinking",
+    "past": "sank",
+    "pastParticiple": "sunk"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa857",
+    "infinitive": "sling",
+    "presentParticiple": "slinging",
+    "past": "slung",
+    "pastParticiple": "slung"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa85e",
+    "infinitive": "speed",
+    "presentParticiple": "speeding",
+    "past": "sped",
+    "pastParticiple": "sped"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa888",
+    "infinitive": "wake",
+    "presentParticiple": "waking",
+    "past": "woke",
+    "pastParticiple": "woken"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa858",
+    "infinitive": "slink",
+    "presentParticiple": "slinking",
+    "past": "slunk",
+    "pastParticiple": "slunk"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa85d",
+    "infinitive": "speak",
+    "presentParticiple": "speaking",
+    "past": "spoke",
+    "pastParticiple": "spoken"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa85c",
+    "infinitive": "sow",
+    "presentParticiple": "sowing",
+    "past": "sowed",
+    "pastParticiple": "sown"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa863",
+    "infinitive": "spit",
+    "presentParticiple": "spitting",
+    "past": "spat",
+    "pastParticiple": "spat"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa88d",
+    "infinitive": "wend",
+    "presentParticiple": "wending",
+    "past": "went",
+    "pastParticiple": "went"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa862",
+    "infinitive": "spin",
+    "presentParticiple": "spinning",
+    "past": "span",
+    "pastParticiple": "spun"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa868",
+    "infinitive": "stand",
+    "presentParticiple": "standing",
+    "past": "stood",
+    "pastParticiple": "stood"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa861",
+    "infinitive": "spill",
+    "presentParticiple": "spilling",
+    "past": "spilt",
+    "pastParticiple": "spilt"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa892",
+    "infinitive": "withhold",
+    "presentParticiple": "withholding",
+    "past": "withheld",
+    "pastParticiple": "withheld"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa867",
+    "infinitive": "spring",
+    "presentParticiple": "springing",
+    "past": "sprang",
+    "pastParticiple": "sprung"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa86d",
+    "infinitive": "stride",
+    "presentParticiple": "striding",
+    "past": "strode",
+    "pastParticiple": "stridden"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa866",
+    "infinitive": "spread",
+    "presentParticiple": "spreading",
+    "past": "spread",
+    "pastParticiple": "spread"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa86b",
+    "infinitive": "sting",
+    "presentParticiple": "stinging",
+    "past": "stung",
+    "pastParticiple": "stung"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa86c",
+    "infinitive": "stink",
+    "presentParticiple": "stinking",
+    "past": "stank",
+    "pastParticiple": "stunk"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa872",
+    "infinitive": "sublet",
+    "presentParticiple": "subletting",
+    "past": "sublet",
+    "pastParticiple": "sublet"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa871",
+    "infinitive": "strive",
+    "presentParticiple": "striving",
+    "past": "strove",
+    "pastParticiple": "striven"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa870",
+    "infinitive": "strip",
+    "presentParticiple": "stripping",
+    "past": "stripped/stript",
+    "pastParticiple": "stripped/stript"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa877",
+    "infinitive": "swell",
+    "presentParticiple": "swelling",
+    "past": "swelled",
+    "pastParticiple": "swollen"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa87c",
+    "infinitive": "tear",
+    "presentParticiple": "tearing",
+    "past": "tore",
+    "pastParticiple": "torn"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa875",
+    "infinitive": "sweat",
+    "presentParticiple": "sweating",
+    "past": "sweat",
+    "pastParticiple": "sweat"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa876",
+    "infinitive": "sweep",
+    "presentParticiple": "sweeping",
+    "past": "swept",
+    "pastParticiple": "swept"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa881",
+    "infinitive": "thrust",
+    "presentParticiple": "thrusting",
+    "past": "thrust",
+    "pastParticiple": "thrust"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa87a",
+    "infinitive": "take",
+    "presentParticiple": "taking",
+    "past": "took",
+    "pastParticiple": "taken"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa87f",
+    "infinitive": "thrive",
+    "presentParticiple": "thriving",
+    "past": "throve",
+    "pastParticiple": "thriven"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa886",
+    "infinitive": "upset",
+    "presentParticiple": "upsetting",
+    "past": "upset",
+    "pastParticiple": "upset"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa87b",
+    "infinitive": "teach",
+    "presentParticiple": "teaching",
+    "past": "taught",
+    "pastParticiple": "taught"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa880",
+    "infinitive": "throw",
+    "presentParticiple": "throwing",
+    "past": "threw",
+    "pastParticiple": "thrown"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa884",
+    "infinitive": "understand",
+    "presentParticiple": "understanding",
+    "past": "understood",
+    "pastParticiple": "understood"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa88b",
+    "infinitive": "wed",
+    "presentParticiple": "wedding",
+    "past": "wed",
+    "pastParticiple": "wed"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa889",
+    "infinitive": "wear",
+    "presentParticiple": "wearing",
+    "past": "wore",
+    "pastParticiple": "worn"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa890",
+    "infinitive": "wind",
+    "presentParticiple": "winding",
+    "past": "wound",
+    "pastParticiple": "wound"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa885",
+    "infinitive": "undertake",
+    "presentParticiple": "undertaking",
+    "past": "undertook",
+    "pastParticiple": "undertaken"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa88a",
+    "infinitive": "weave",
+    "presentParticiple": "weaving",
+    "past": "wove",
+    "pastParticiple": "woven"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa88e",
+    "infinitive": "wet",
+    "presentParticiple": "wetting",
+    "past": "wet",
+    "pastParticiple": "wet"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa895",
+    "infinitive": "write",
+    "presentParticiple": "writing",
+    "past": "wrote",
+    "pastParticiple": "written"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa88f",
+    "infinitive": "win",
+    "presentParticiple": "winning",
+    "past": "won",
+    "pastParticiple": "won"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa893",
+    "infinitive": "withstand",
+    "presentParticiple": "withstanding",
+    "past": "withstood",
+    "pastParticiple": "withstood"
+  },
+  {
+    "id": "5eac5bec4ff0d27fa4efa894",
+    "infinitive": "wring",
+    "presentParticiple": "wringing",
+    "past": "wrung",
+    "pastParticiple": "wrung"
+  }
+]
