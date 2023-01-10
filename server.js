@@ -48,11 +48,6 @@ const root = {
 
 const app = express();
 
-app.use(
-  "/graphql",
-  graphqlHTTP({ schema: schema, rootValue: root, graphiql: true })
-);
+app.use("/graphql", graphqlHTTP({ schema: schema, rootValue: root, graphiql: true }));
 
-app.listen(4000, () =>
-  console.log("Running GraphQL API server at localhost:4000/graphql")
-);
+app.listen(4000, () => console.log("Running GraphQL API server at localhost:4000/graphql"));
