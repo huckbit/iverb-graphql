@@ -8,9 +8,9 @@ npm run start
 
 ## Query the API
 
-Once the server is up and running open GraphiQL [http://localhost:4000/graphql](http://localhost:4000/graphql)
+Once the server is up and running open GraphiQL at [http://localhost:4000/graphql](http://localhost:4000/graphql)
 
-### Get all verbs
+### Get all the verbs
 
 ```graphql
 {
@@ -24,7 +24,7 @@ Once the server is up and running open GraphiQL [http://localhost:4000/graphql](
 }
 ```
 
-### Get verbs by id
+### Get verb by id
 
 ![graphiql-query](doc/images/GraphiQL-query.jpg)
 
