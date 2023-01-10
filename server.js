@@ -12,6 +12,10 @@ const root = {
 
 const app = express();
 
+app.get("/", (req, res) => {
+  res.status(200).json({ message: "go to route /graphql" });
+});
+
 app.use("/graphql", graphqlHTTP({ schema: schema, rootValue: root, graphiql: true }));
 
 app.listen(4000, () => console.log("Running GraphQL API server at localhost:4000/graphql"));
