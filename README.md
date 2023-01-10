@@ -32,7 +32,7 @@ Use the following query
 
 ```graphql
 query getVerbById($id: String!) {
-  verb(id: $id) {
+  verbByID(id: $id) {
     id
     infinitive
     presentParticiple

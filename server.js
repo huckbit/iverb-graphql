@@ -7,7 +7,7 @@ const verbsData = require("./data/verbs.json");
 /* Construct a schema using GraphQL schema language */
 const schema = buildSchema(`
     type Query {
-        verb(id: String!): Verb
+        verbByID(id: String!): Verb
         verbs: [Verb]
     },
     type Verb {
@@ -32,7 +32,7 @@ const getVerbs = () => {
 };
 
 const root = {
-  verb: getVerbById,
+  verbByID: getVerbById,
   verbs: getVerbs,
 };
 
