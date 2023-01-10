@@ -1,5 +1,9 @@
 # iVerb graphQL API
 
+A very basic GraphQL API to query english irregular verbs.
+
+Live iVerb APU graphiQL URL: [https://iverb-graphql.vercel.app/graphq](https://iverb-graphql.vercel.app/graphq)
+
 ## Run the server
 
 ```bash
