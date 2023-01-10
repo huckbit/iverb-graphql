@@ -7,8 +7,9 @@ const verbsData = require("./data/verbs.json");
 /* Construct a schema using GraphQL schema language */
 const schema = buildSchema(`
     type Query {
-        verbByID(id: String!): Verb
-        verbs: [Verb]
+      verbs: [Verb]
+      verbByID(id: String!): Verb
+      verbByInfinitive(infinitive: String!) : Verb
     },
     type Verb {
         id: String
@@ -20,6 +21,11 @@ const schema = buildSchema(`
 `);
 
 /* Root provides a resolver function for each API endpoint */
+
+const getVerbs = () => {
+  return verbsData;
+};
+
 const getVerbById = (args) => {
   let id = args.id;
   return verbsData.filter((verb) => {
@@ -27,13 +33,17 @@ const getVerbById = (args) => {
   })[0];
 };
 
-const getVerbs = () => {
-  return verbsData;
+const getVerbByInfinitive = (args) => {
+  let infinitive = args.infinitive;
+  return verbsData.filter((verb) => {
+    return verb.infinitive === infinitive;
+  })[0];
 };
 
 const root = {
-  verbByID: getVerbById,
   verbs: getVerbs,
+  verbByID: getVerbById,
+  verbByInfinitive: getVerbByInfinitive,
 };
 
 const app = express();

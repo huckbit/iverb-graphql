@@ -49,3 +49,27 @@ And for example the following for the Query variables
   "id": "5eac5bec4ff0d27fa4efa7d2"
 }
 ```
+
+### Get Verb by infinitive
+
+Use the following query
+
+```graphql
+query getVerbByInfinitive($infinitive: String!) {
+  verbByInfinitive(infinitive: $infinitive) {
+    id
+    infinitive
+    presentParticiple
+    past
+    pastParticiple
+  }
+}
+```
+
+Use for the query variable for example:
+
+```graphql
+{
+  "infinitive": "do"
+}
+```
