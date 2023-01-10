@@ -26,7 +26,7 @@ Once the server is up and running open GraphiQL [http://localhost:4000/graphql](
 
 ### Get verbs by id
 
-![graphiql-query]('https://github.com/huckbit/iverb-graphql/doc/images/GraphiQL-query.jpg')
+![graphiql-query](doc/images/GraphiQL-query.jpg)
 
 Use the following query
 
