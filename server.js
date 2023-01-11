@@ -13,11 +13,7 @@ const root = {
 const app = express();
 
 app.get("/", (req, res) => {
-  res.status(200).json({
-    message: "go to route /graphql",
-    name: "iverb-graphql",
-    repoURL: "https://github.com/huckbit/iverb-graphql",
-  });
+  res.redirect("/graphql");
 });
 
 app.use("/graphql", graphqlHTTP({ schema: schema, rootValue: root, graphiql: true }));
