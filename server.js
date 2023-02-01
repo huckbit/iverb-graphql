@@ -1,7 +1,7 @@
 const express = require("express");
 const { graphqlHTTP } = require("express-graphql");
-const { getVerbs, getVerbById, getVerbByInfinitive } = require("./src/gql.controller");
-const schema = require("./src/gql.schema");
+const { getVerbs, getVerbById, getVerbByInfinitive } = require("./src/resolvers");
+const schema = require("./src/schema");
 
 /* Root resolver function for each API endpoint */
 const root = {
